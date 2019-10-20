@@ -1,2 +1,2 @@
-# ML
-Alll about my ML codes
+# Machine Learning
+All about my Machine Learning codes
